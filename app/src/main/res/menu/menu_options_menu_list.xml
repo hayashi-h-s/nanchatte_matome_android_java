@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="３章 ビューとアクティビティ"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="４章 イベントとリスナ"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="５章 リストビューとダイアログ"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="６章 ConstraintLayout"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="７章 画面遷移とインテント"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="８章 リストビューのカスタマイズ"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="９章 フラグメント"
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="１０章 "
+        app:showAsAction="never">
+    </item>
+    <item
+        android:title="１１章 "
+        app:showAsAction="never">
+    </item>
+</menu>

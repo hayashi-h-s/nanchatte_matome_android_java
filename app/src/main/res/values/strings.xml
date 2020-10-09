@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">nanchatte_listView_dialog_Android_java</string>
+    <string-array name="lv_name">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+    </string-array>
+
+    <!-- 5 - 2 -->
+
+    <string name="dialog_title">注文確認</string>
+    <string name="dialog_msg">選択された定食を注文します。よろしいですか。</string>
+    <string name="dialog_btn_ok">注文</string>
+    <string name="dialog_btn_ng">キャンセル</string>
+    <string name="dialog_btn_nu">問合せ</string>
+
+    <string name="dialog_ok_toast">ご注文ありがとうございます。</string>
+    <string name="dialog_ng_toast">ご注文をキャンセルしました。</string>
+    <string name="dialog_nu_toast">お問い合わせ内容をおしらせください。</string>
+
+<!-- 6-1-->
+    <string name="tv_title">必要な情報を入力してください</string>
+    <string name="tv_name">名前</string>
+    <string name="tv_mail">メールアドレス</string>
+    <string name="tv_comment">質問内容</string>
+    <string name="bt_confirm">確認</string>
+    <string name="bt_send">送信</string>
+    <string name="bt_clear">クリア</string>
+
+
+
+</resources>

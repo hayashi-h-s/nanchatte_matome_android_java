@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "nanchatte_listView_dialog_Android_java"
